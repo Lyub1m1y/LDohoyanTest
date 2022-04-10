@@ -1,6 +1,6 @@
 LDokhoyanTest
 ===============
-##I have solved the technical task from Neostudy =) 
+I have solved the technical task from Neostudy =) 
 
 > This is a console application with which you can convert from one number system to another, namely:
 > * (from decimal to hexadecimal) == (10 -> 16)
