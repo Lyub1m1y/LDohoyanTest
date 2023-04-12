@@ -5,7 +5,7 @@ I have solved the technical task from Neostudy =)
 > This is a console application with which you can convert from one number system to another, namely:
 > * (from decimal to hexadecimal) == (10 -> 16)
 > * (from decimal to binary) == (10 -> 2)
-> * (from binary to decimal) == (10 -> 2)
+> * (from binary to decimal) == (2 -> 10)
 
 An example of working in this application:
 >![alt text](img.jpg)
